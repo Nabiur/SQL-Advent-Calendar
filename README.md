@@ -1,5 +1,7 @@
 # SQL Advent Calendar 2024
 
+![SQL](https://img.shields.io/badge/Language-SQL-4479A1) ![Challenge](https://img.shields.io/badge/Format-24%20Day%20Challenge-B22222) ![Level](https://img.shields.io/badge/Focus-Interview%20Practice-0A7E07)
+
 ## Overview
 This repository contains my solutions to the 24-day SQL Advent Calendar challenge hosted by Interview Master. Each file corresponds to one day of practice and captures query-writing patterns for analytics-focused SQL tasks.
 
